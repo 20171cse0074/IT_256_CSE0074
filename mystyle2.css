@@ -1,0 +1,17 @@
+p
+{
+color:red;
+text-align:center;
+font-weight:normal;
+letter-spacing:4em;
+margin-bottom:1em;
+text-transform:lowercase;
+}
+h1
+{
+color:blue;
+font-size:30px;
+letter-spacing:1em;
+margin-bottom:10px;
+text-transform:lowercase;
+}
